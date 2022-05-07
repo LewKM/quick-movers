@@ -107,11 +107,8 @@ footer{
     left: 100px;
     border-bottom-color: #FAFF00;
 }
-.row1{
-
-  }
   
-  .row1:after {
+.row1:after {
     content: "";
     display: table;
     clear: both;
