@@ -93,4 +93,13 @@ html, body {
 .row1{
 position: relative;
 }
+.glow{
+    height: 50px;
+    width: 50px;
+    
+}
+footer{
+    background-color: red;
+    opacity: 100%;
+}
 
