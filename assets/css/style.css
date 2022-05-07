@@ -93,13 +93,29 @@ html, body {
 .row1{
 position: relative;
 }
-.glow{
-    height: 50px;
-    width: 50px;
-    
-}
-footer{
-    background-color: red;
-    opacity: 100%;
-}
 
+footer{
+    background-color: black;
+    opacity: 100%;
+    color: beige;
+    height: 500px;
+}
+#h1f{
+    position: relative;
+    border: 10px;
+    top: 65px;
+    left: 100px;
+    border-bottom-color: #FAFF00;
+}
+.row1{
+
+  }
+  
+  .row1:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+.column1{
+    column-gap: 40px;
+  }
