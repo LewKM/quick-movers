@@ -84,10 +84,13 @@ html, body {
     width: 150px;
     font-size: 20px;
 }
-.section3{
+.section2a{
     float: right;
     position: relative;
     top: -400px;
     right: 150px;
+}
+.row1{
+position: relative;
 }
 
