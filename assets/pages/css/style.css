@@ -58,6 +58,7 @@ footer{
 #btn1{
     background-color: #FAFF00;
     height: 30px;
+    font-size: 15px;
 }
 header{
     background-color: black;
@@ -189,3 +190,8 @@ header{
 #dp{
     font-size: 20px;
 }
+#img{
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+  }
