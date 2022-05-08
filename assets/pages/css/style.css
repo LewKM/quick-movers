@@ -1,3 +1,15 @@
+*{
+    font-family: Poppins, Actor, Adamina;
+}
+html, body , footer{
+    max-width: 100%;
+    overflow-x: hidden;
+    background-color: aliceblue;
+}
+#mv{
+    position: relative;
+    left: 100px;
+}
 #h1f{
     position: relative;
     border: 10px;
@@ -58,11 +70,122 @@ header{
     height: 100px;
 }
 .cdn{
+    position: relative;
     color: antiquewhite;
+    top: 10px;
 }
 .cdn2{
     position: relative;
     color: antiquewhite;
-    left: 1600px;
-    top: -30px;
+    left: 1550px;
+    top: -60px;
+}
+.img1{
+    position: relative;
+    width: 700px;
+}
+#hello{
+    height: 180px;
+    width: 250px;
+    font-size: 25px;
+    position: relative;
+}
+#name{
+    width: 250px;
+    height: 35px;
+    font-size: 25px;
+}
+#phone{
+    width: 250px;
+    height: 35px;
+    font-size: 25px;
+}
+#email{
+    width: 250px;
+    height: 35px;
+    font-size: 25px;
+}
+.form1{
+    border-style: inset;
+    width: 350px;
+    height: 450px;
+    border-radius: 5%;
+    position: relative;
+    left: 800px;
+    top: -500px;
+}
+.profilepicture{
+    font-size: 10px;
+    border-style: groove;
+    width: 250px;
+    border-radius: 10%;
+}
+#table{
+    width: 500px;
+    border-style: inset;
+    height: 40px;
+}
+.det{
+    height: 200px;
+    border-style: inset;
+    width: 700px;
+    border-radius: 5%;
+}
+#det{
+    font-size: 25px;
+    position: relative;
+    left: 15px;
+}
+.descrp{
+    border-style: inset;
+    width: 700px;
+
+}
+#features{
+    width: 700px;
+    height: 250px;
+    border-style: inset;
+    font-size: 20px;
+
+}
+#col1{
+    position: relative;
+    left: 10px;
+}
+#col2{
+    position: relative;
+    left: 200px;
+    top: -135px;
+}
+#col3{
+    position: relative;
+    left: 400px;
+    top: -270px;
+}
+#simli{
+    column-span: all;
+    box-sizing: border-box;
+    float: left;
+    width: 25%;
+    padding: 0 10px
+
+}
+
+.sim{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    padding: 16px;
+    text-align: center;
+    background-color: #f1f1f1;
+    object-fit: cover;
+
+}
+.row {margin: 0 -5px;}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+#dp{
+    font-size: 20px;
 }
