@@ -56,6 +56,10 @@ footer{
     width: auto;
     top: 45px;
 }
+.bar{
+    padding-left: 25px;
+    padding-right: 25px;
+}
 #btn1{
     background-color: #FAFF00;
     height: 30px;
@@ -70,6 +74,8 @@ header{
     background-color: black;
     width: auto;
     height: 100px;
+    position: relative;
+    top: -40px;
 }
 .cdn{
     position: relative;
@@ -80,14 +86,14 @@ header{
     position: relative;
     color: antiquewhite;
     left: 1550px;
-    top: -60px;
+    top: -65px;
 }
 .img1{
     position: relative;
     width: 700px;
 }
 #hello{
-    height: 180px;
+    height: 80px;
     width: 250px;
     font-size: 25px;
     position: relative;
@@ -141,6 +147,7 @@ header{
 .descrp{
     border-style: inset;
     width: 700px;
+    border-radius: 5%;
 
 }
 #features{
@@ -148,6 +155,7 @@ header{
     height: 250px;
     border-style: inset;
     font-size: 20px;
+    border-radius: 5%;
 
 }
 #col1{
@@ -189,10 +197,37 @@ header{
   clear: both;
 }
 #dp{
-    font-size: 20px;
+    font-size: 18px;
+    padding-left: 10px;
+
 }
 #img{
     width: 100%;
     height: 15vw;
     object-fit: cover;
   }
+  .ppp{
+    height: 50px;
+    width: 250px;
+    background-color: black;
+    color: #FAFF00;
+    font-size: 20px;
+    border-radius: 10%;
+
+}
+.sim1{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    padding: 16px;
+    text-align: center;
+    background-color: #f1f1f1;
+    object-fit: cover;
+
+}
+#simli1{
+    column-span: all;
+    box-sizing: border-box;
+    float: left;
+    width: 14%;
+    padding: 0 10px
+
+}
