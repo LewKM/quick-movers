@@ -54,6 +54,7 @@ footer{
     font-size: 25px;
     height: 100px;
     width: auto;
+    top: 45px;
 }
 #btn1{
     background-color: #FAFF00;
