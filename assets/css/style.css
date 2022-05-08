@@ -125,11 +125,15 @@ footer{
 }
 #footercol1{
     position: relative;
+    left: 400px;
+    top: 300px;
+
 
 }
 #footercol2{
+    position: relative;
     
 }
 #footercol3{
-    
+    position: relative;
 }
