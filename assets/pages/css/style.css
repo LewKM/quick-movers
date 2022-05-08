@@ -29,3 +29,40 @@
 #span{
     color: #FAFF00;
 }
+footer{
+    background-color: black;
+    opacity: 100%;
+    color: beige;
+    height: 500px;
+}
+.navbar{
+    position: relative;
+    left: 800px;
+    color:white;
+    font-size: 25px;
+    height: 100px;
+    width: auto;
+}
+#btn1{
+    background-color: #FAFF00;
+    height: 30px;
+}
+header{
+    background-color: black;
+    width: auto;
+    height: 100px;
+}
+.mdn{
+    background-color: black;
+    width: auto;
+    height: 100px;
+}
+.cdn{
+    color: antiquewhite;
+}
+.cdn2{
+    position: relative;
+    color: antiquewhite;
+    left: 1600px;
+    top: -30px;
+}
