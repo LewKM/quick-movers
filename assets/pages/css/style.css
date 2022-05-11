@@ -196,7 +196,7 @@
             #col3 {
                 position: relative;
                 left: 400px;
-                top: -270px;
+                bottom: 500px;
             }
             
             #simli {
@@ -286,4 +286,16 @@
                 padding-bottom: 20px;
                 padding-right: 40px;
                 text-align: left;
+            }
+            
+            table {
+                margin-top: -9px;
+                width: 360px;
+                border-bottom-left-radius: 10px;
+                border-bottom-right-radius: 10px;
+                background-color: white;
+            }
+            
+            .real {
+                height: 600px;
             }
